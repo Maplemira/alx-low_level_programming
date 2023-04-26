@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 /**
-* numLength - returns the lengtth of string 
+* numLength - returns the lengtth of string
+*
 * @n : operand number
+*
 * Return: number of digits
 */
 
