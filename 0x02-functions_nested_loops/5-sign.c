@@ -7,7 +7,7 @@
   * 0 if the number is zero
   * -1 if the number is less than zero
   */
-int print_sigm(int n)
+int print_sign(int n)
 {
 	if (n > 0)
 	{
